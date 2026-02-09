@@ -34,5 +34,4 @@
     "git.repositoryScanMaxDepth": 30,
     "git.autoRepositoryDetection": "all",
     "diffEditor.hideUnchangedRegions.enabled": true
-
 }
